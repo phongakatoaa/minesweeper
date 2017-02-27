@@ -1,4 +1,4 @@
-A basic Minesweeper clone made by C++
+A basic Minesweeper clone made with C++
 
 How to play:
 
